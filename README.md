@@ -1,2 +1,2 @@
 # gstreamer_pocs
-Gstreamer Prototypes
+Gstreamer Prototype and snippets for usecases in media processing and streaming
